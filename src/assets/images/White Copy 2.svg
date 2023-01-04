@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="246px" height="18px" viewBox="0 0 246 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Link / White Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Flows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Submarine---2" transform="translate(-1046.000000, -498.000000)" fill="#0095FF">
+            <g id="Link-/-Blue" transform="translate(1048.000000, 493.000000)">
+                <g id="Layout-/-Icon-/-Camera" transform="translate(-5.232323, 0.000000)" fill-rule="evenodd">
+                    <path d="M19.1919192,15 L19.1919192,18 C19.1919192,18.55225 18.7396465,19 18.1818182,19 L15.1515152,19 L15.1515152,17 L17.1717172,17 L17.1717172,15 L19.1919192,15 Z M7.07070707,15 L7.07070707,17 L9.09090909,17 L9.09090909,19 L6.06060606,19 C5.50277778,19 5.05050505,18.55225 5.05050505,18 L5.05050505,15 L7.07070707,15 Z M20.2020202,11 L20.2020202,13 L4.04040404,13 L4.04040404,11 L20.2020202,11 Z M9.09090909,5 L9.09090909,7 L7.07070707,7 L7.07070707,9 L5.05050505,9 L5.05050505,6 C5.05050505,5.44775 5.50277778,5 6.06060606,5 L9.09090909,5 Z M18.1818182,5 C18.7396465,5 19.1919192,5.44775 19.1919192,6 L19.1919192,9 L17.1717172,9 L17.1717172,7 L15.1515152,7 L15.1515152,5 L18.1818182,5 Z" id="Color"></path>
+                </g>
+                <rect id="Line" fill-rule="evenodd" opacity="0.200000003" x="22" y="22" width="220" height="1"></rect>
+                <text id="This-is-a-link" font-family="Helvetica" font-size="17" font-weight="normal" line-spacing="24">
+                    <tspan x="21" y="16">Use browser to scan invoice</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
